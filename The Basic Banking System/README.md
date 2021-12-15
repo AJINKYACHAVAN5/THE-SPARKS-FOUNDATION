@@ -1,5 +1,6 @@
-# The Sparks Banking System
-Sparks Foundation Internship Project : The Basic Banking System  
+# Task-1 : The Sparks Banking System
+GRIP@ Sparks Foundation Web Development and Designing internship 
+Duration - 1 Month ( DEC-2021 ) 
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
@@ -12,3 +13,4 @@ Database contains two Tables- Users Table & Transaction Table
 2. Transaction table records all transfers happened along with their time.  
 
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
+
