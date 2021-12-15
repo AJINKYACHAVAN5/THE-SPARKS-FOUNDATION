@@ -1,8 +1,8 @@
-# TSF-Task-2
+# The Payment Gateway Intergration
 
-Task 2
+Task 3
 
 GRIP@ Sparks Foundation web development and designing internship Task-1 Basic Banking website The Sparks Foundation Tasks This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 #Internship Category - Web Development and Design #Internship Duration - 1 Month ( OCT-2021 ) #Internship Type - Work from Home
-#Task-1 : Payment Gateway Integration
+#Task-3 : Payment Gateway Integration
