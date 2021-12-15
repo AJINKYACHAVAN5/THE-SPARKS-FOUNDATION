@@ -1,4 +1,4 @@
-# Ajinkya Chavan Banking System
+#The Sparks Banking System
 Sparks Foundation Internship Project : The Basic Banking System  
 A Web Application used to transfer money between multiple users.  
 
